@@ -1,5 +1,7 @@
 ### Hi there, I'm DaenKim 😁
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jajugoguma)](https://github.com/jajugoguma/github-readme-stats)
+
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jajugoguma@gmail.com)](mailto:jajugoguma@gmail.com)
 <!--
 **jajugoguma/jajugoguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
